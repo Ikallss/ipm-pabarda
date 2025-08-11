@@ -1,0 +1,12 @@
+{
+  "name": "ipm-papbar-website",
+  "version": "1.0.0",
+  "description": "Static site for IPM Papua Barat Daya with Netlify CMS (Eleventy)",
+  "scripts": {
+    "build": "eleventy",
+    "start": "eleventy --serve"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.2"
+  }
+}
